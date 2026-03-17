@@ -1,4 +1,4 @@
-STRUCTURE
+#STRUCTURE
 src/
   index.js
   index.html
@@ -10,7 +10,7 @@ src/
     storage.js
     ui.js
     
-RUN THE PROJECT
+#RUN THE PROJECT
 npm install
 npm start
 
